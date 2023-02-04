@@ -2,4 +2,5 @@
 Download files from a URI
 
 
-./script.sh https://example.com/downloads/ .zip
+```bash
+./script_name.sh <uri> <.ext>
